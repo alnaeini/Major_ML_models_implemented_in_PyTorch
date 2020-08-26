@@ -3,5 +3,5 @@ In this repository, A straightforward Pytorch implementation of the Deep Reinfor
 
 Here are the learning results for inverted pendulum environment trained by Soft Actor Critic:
 <p align="center">
-  <img src="/SAC/inverted_pendulum.png" />
+  <img src="inverted_pendulum.png" />
 </p>
