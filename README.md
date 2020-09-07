@@ -10,6 +10,6 @@ Here are the learning results for inverted pendulum environment trained by Soft 
 
 ## Generative Pre-trained Transformer
 
-Simply can run test files in GPT/ folder.  
+Simply can run test files in GPT folder.  
 
 
